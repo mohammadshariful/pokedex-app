@@ -1,7 +1,7 @@
 import { PulseLoader } from "react-spinners";
 const Loading = ({ loading }) => {
   return (
-    <div className="flex justify-center items-center h-[60vh]">
+    <div className="flex justify-center items-center h-[20vh]">
       <div className="sweet-loading">
         <PulseLoader
           size={35}
